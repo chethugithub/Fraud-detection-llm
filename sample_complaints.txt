@@ -1,0 +1,5 @@
+
+Text
+1. I received a phone call asking for my OTP and later money was debited.
+2. I clicked a link in an email and my bank account was accessed.
+3. Unknown transactions appeared in my account without my knowledge.
